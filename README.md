@@ -1,0 +1,2 @@
+This repository contains the code for an Accident Report Landing Page, designed to facilitate the submission of accident reports.FeaturesUser-Friendly Interface: A simple and intuitive form to collect accident details.Secure Submission: Ensures the security of submitted information through proper validation.Attachment Upload: Allows users to attach relevant documents or images related to the accident.Mobile Responsiveness: Optimized for seamless use on various devices, including smartphones and tablets.
+Author:Henry Ndlovu
